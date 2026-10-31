@@ -5,8 +5,8 @@
 class Dayhand < Formula
   desc "Command-line client for the Dayhand task manager, for people and agents"
   homepage "https://github.com/maiarowsky/dayhand"
-  url "https://registry.npmjs.org/dayhand/-/dayhand-0.14.0.tgz" # x-release-please-version
-  sha256 "6c112d27846f8d2d75579a0f9c87eff65a62324008c8b65c4211bb526fd6d90f"
+  url "https://registry.npmjs.org/dayhand/-/dayhand-0.15.0.tgz" # x-release-please-version
+  sha256 "6e0e586e9f007380100e73a0f4f110f9e856e8f91a54752b649ad75c029eab5a"
   license "Apache-2.0"
 
   depends_on "node"
